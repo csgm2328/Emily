@@ -1,14 +1,10 @@
 나만의 로보어드바이저 - 에밀리
 =============
-
+https://user-images.githubusercontent.com/39210160/98380721-43cdc080-208c-11eb-866e-1d9fbd563627.png
 💬 LSTM 모델을 이용해 투자 자산의 가격을 예측하고 원하는 매매주기에 따라 최적의 매매 타이밍을 제공합니다.
 
 ## 시나리오
-<img src="https://user-images.githubusercontent.com/39210160/95105457-28605480-0772-11eb-8811-99ee19aea7d2.png">
-<img src="https://user-images.githubusercontent.com/39210160/95105657-6eb5b380-0772-11eb-8dca-fae1dc6b0295.png">
-<img src="https://user-images.githubusercontent.com/39210160/95105692-7d03cf80-0772-11eb-8b0c-a28b9579cbb4.png">
-<img src="https://user-images.githubusercontent.com/39210160/95105510-38783400-0772-11eb-95ce-44ecebc7c5ee.png">
-
+https://user-images.githubusercontent.com/39210160/98381577-69a79500-208d-11eb-90dc-39d4f664d832.png
 
 ## 수행내용
 - Hyper Parameter Optimization
