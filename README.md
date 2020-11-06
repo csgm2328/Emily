@@ -17,7 +17,7 @@
 - 최적 매매타이밍 포착
 
 ## 개발환경
-- Google Colab
+- Google Colab (Tesla T4 or Tesla K80)
 - Linux (Titan XP)
 
 ## 진행문서
