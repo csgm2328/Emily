@@ -18,7 +18,7 @@
 <img src="https://user-images.githubusercontent.com/39210160/98380320-c1450100-208b-11eb-91c3-49e265ca2117.png"></img>
 
 - 알고리즘을 통해 최적 매매타이밍을 포착
-<img src="https://user-images.githubusercontent.com/39210160/98380320-c1450100-208b-11eb-91c3-49e265ca2117.png"></img>
+<img src="https://user-images.githubusercontent.com/39210160/98380325-c30ec480-208b-11eb-9cfb-8769329bc711.png"></img>
 
 - 선정기준에 맞도록 지속적인 우수모델 갱신
 
