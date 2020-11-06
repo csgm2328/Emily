@@ -5,7 +5,7 @@
 💬 LSTM 모델을 이용해 투자 자산의 가격을 예측하고 원하는 매매주기에 따라 최적의 매매 타이밍을 제공합니다.
 
 ## 시나리오
-<img src="https://user-images.githubusercontent.com/39210160/98381577-69a79500-208d-11eb-90dc-39d4f664d832.png></img>
+<img src="https://user-images.githubusercontent.com/39210160/98381577-69a79500-208d-11eb-90dc-39d4f664d832.png"></img>
 
 ## 수행내용
 - Hyper Parameter Optimization
