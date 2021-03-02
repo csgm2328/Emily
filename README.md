@@ -1,4 +1,4 @@
-나만의 로보어드바이저 - 에밀리
+My RoboAdvisor - Emily
 =============
 <img src="https://user-images.githubusercontent.com/39210160/98380721-43cdc080-208c-11eb-866e-1d9fbd563627.png"></img>
 
