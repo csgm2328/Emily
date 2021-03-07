@@ -28,4 +28,4 @@ My RoboAdvisor - Emily
 
 ## 정보
 - 개발자: 추승지
-- 문의사항: csgm2328@jbnu.ac.kr
+- 문의사항: csgm2328@gmail.com
