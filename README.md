@@ -21,10 +21,11 @@ My RoboAdvisor - Emily
 
 ## 개발환경
 - Google Colab (Tesla T4 or Tesla K80)
-- Linux (Titan XP)
+- conda 4.7.12 & Keras-gpu (Titan XP)
 
 ## 진행문서
 [에밀리 진행 Docs](https://docs.google.com/document/d/1TKvwtL3RQNJwFevq9epFiTZhDykAKoCLrA_NXdWJlmg/edit?usp=sharing)
+
 ## 정보
 - 개발자: 추승지
 - 문의사항: csgm2328@jbnu.ac.kr
